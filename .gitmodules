@@ -1,0 +1,6 @@
+[submodule "serverless"]
+	path = serverless
+	url = https://github.com/thinktecture/extreme-serverless-demo
+[submodule "containers"]
+	path = containers
+	url = https://github.com/ThorstenHans/aks-demo-app
